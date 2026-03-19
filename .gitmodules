@@ -1,0 +1,6 @@
+[submodule "ATD/wkf-atd-bff"]
+	path = ATD/wkf-atd-bff
+	url = https://github.com/yassrun/wkf-atd-bff.git
+[submodule "ATD/wkf-atd-front"]
+	path = ATD/wkf-atd-front
+	url = https://github.com/yassrun/wkf-atd-front.git
